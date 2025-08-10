@@ -201,7 +201,6 @@ pip or conda package manager
 
 **[“Coco Manifesto” – Joon Gloom](https://open.spotify.com/track/6A1QXpC9KUYas8PX9Q8JEa?si=ec5527038ce642cf)**
 
-
-
  **Star this repository if you found it interesting!** ⭐
+ 
  **made with ❤️ by arooj**
