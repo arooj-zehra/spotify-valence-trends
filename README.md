@@ -197,7 +197,7 @@ pip or conda package manager
 - **Technical Documentation**: Pandas, Matplotlib, and Seaborn official guides
 
 ## 🎧 Project Soundtrack  
-> *This track was on loop while working on this project.*
+*This track was on loop while working on this project.*
 
 **[“Coco Manifesto” – Joon Gloom](https://open.spotify.com/track/6A1QXpC9KUYas8PX9Q8JEa?si=ec5527038ce642cf)**
 
